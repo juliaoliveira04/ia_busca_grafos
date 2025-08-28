@@ -1,0 +1,5 @@
+# Dependências do Simulador de Busca em Grafos
+# Interface visual usando apenas tkinter
+
+# Para carregar arquivos YAML
+PyYAML>=6.0

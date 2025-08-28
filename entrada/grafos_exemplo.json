@@ -1,0 +1,27 @@
+{
+  "no_A": {
+    "n_arestas": 3,
+    "arestas": {
+      "no_B": 70,
+      "no_C": 85,
+      "no_D": 110
+    }
+  },
+  "no_B": {
+    "n_arestas": 3,
+    "arestas": {
+      "no_A": 70,
+      "no_E": 45,
+      "no_F": 210
+    }
+  },
+  "no_C": {
+    "n_arestas": 4,
+    "arestas": {
+      "no_A": 85,
+      "no_E": 90,
+      "no_F": 150,
+      "no_G": 180
+    }
+  }
+}
