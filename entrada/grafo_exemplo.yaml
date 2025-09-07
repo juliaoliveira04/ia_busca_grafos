@@ -1,0 +1,42 @@
+no_A:
+  - n_arestas: 3
+  - no_B: 70
+  - no_C: 85
+  - no_D: 110
+
+no_B:
+  - n_arestas: 2
+  - no_A: 70
+  - no_E: 45
+  - no_F: 210
+
+no_C:
+  - n_arestas: 4
+  - no_A: 85
+  - no_E: 90
+  - no_F: 150
+  - no_G: 180
+
+no_D:
+  - n_arestas: 2
+  - no_A: 110
+  - no_G: 40
+
+no_E:
+  - n_arestas: 2
+  - no_B: 45
+  - no_C: 90
+  - no_F: 30
+
+no_F:
+  - n_arestas: 3
+  - no_B: 210
+  - no_C: 150
+  - no_E: 30
+  - no_G: 25
+
+no_G:
+  - n_arestas: 2
+  - no_C: 180
+  - no_D: 40
+  - no_F: 25
